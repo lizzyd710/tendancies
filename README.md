@@ -1,1 +1,1 @@
-# tendancies
+# tendencies
